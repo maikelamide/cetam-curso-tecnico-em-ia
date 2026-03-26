@@ -25,3 +25,14 @@ d) Apenas arquivos de imagem
 
 **Resposta:**
 --- C
+
+RESPOSTA DA .1
+--B
+RESPOSTA DA .2
+--A
+RESPOSTA DA .3
+--C
+RESPOSTA DA .4
+--D
+RESPOSTA DA .5
+--A
