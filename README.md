@@ -13,6 +13,7 @@ b) Apenas I e II estão corretas
 c) Apenas I e III estão corretas  
 d) I, II e III estão corretas  
 
+**Resposta:**
 ---
 
 ### 7. O que são dependências em um projeto?
@@ -21,3 +22,5 @@ a) Arquivos desnecessários que podem ser removidos
 b) Programas do sistema operacional  
 c) Bibliotecas que o projeto precisa para funcionar  
 d) Apenas arquivos de imagem  
+
+**Resposta:**
