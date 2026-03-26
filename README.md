@@ -14,7 +14,7 @@ c) Apenas I e III estão corretas
 d) I, II e III estão corretas  
 
 **Resposta:**
----B
+---C
 
 ### 7. O que são dependências em um projeto?
 
@@ -23,4 +23,5 @@ b) Programas do sistema operacional
 c) Bibliotecas que o projeto precisa para funcionar  
 d) Apenas arquivos de imagem  
 
-**Resposta:**c
+**Resposta:**
+--- C
