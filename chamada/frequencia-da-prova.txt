@@ -1,7 +1,10 @@
 Prova Parcial 03 - Ferramentas de Programação
 Em: 26.03.2026
 Nome do aluno (insira apenas o nome inicial)
-01.deivison
-02.Rafaela
-03.Isabele
-04.Francinelson
+
+01.Alan Lucas
+02.Maria Elionara
+03.deivison
+04.Rafaela
+05.Isabele
+06.Francinelson
