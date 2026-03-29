@@ -1,2 +1,0 @@
-Crie uma pasta com seus nomes e dentro da pasta adicione os arquivos:
-integrantes.txt e questoes.txt, conforme o enunciado.
