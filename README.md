@@ -1,18 +1,17 @@
-# Avaliação Parcial 03 - Ferramentas de Programação - 26/03/2026
+## Curso
+Técnico em Inteligência Artificial - CETAM - 26/03/2026
 
 ## Disciplina
 Fundamentos de Informática, Sistemas Operacionais e Ferramentas de Programação
 
-## Curso
-Técnico em Inteligência Artificial - CETAM
-
-## Instruções da atividade prática
+## Avaliação Parcial 03 - Ferramentas de Programação
+#### Instruções da atividade prática
 
 Siga os passos abaixo:
 
 1. Clonar o repositório para sua máquina.
-2. Criar uma branch com o padrão: `dupla_nome1_nome2`.
-3. Dentro da pasta `duplas`, criar um diretório com o mesmo nome da branch: `duplas/dupla_nome1_nome2`.
+2. Criar uma branch com o padrão: `nome1_nome2`.
+3. Dentro da pasta `duplas`, criar um diretório com o mesmo nome da branch: `dupla_nome1_nome2`.
 4. Dentro desse diretório, criar os arquivos:
    - `integrantes.txt`: contendo o nome dos dois integrantes da dupla.
    - `Questões.txt`: contendo as questões copiadas do arquivo `README.md`, com as respostas destacadas.
@@ -98,4 +97,4 @@ d. Apenas arquivos de imagem
 
 O professor disponibilizará um repositório base no GitHub e é necessário solicitar inserção como colaborador:
 
-`https://github.com/maikelamide/cetam-curso-tecnico-em-ia`
+`https://github.com/maikelamide/cetam-curso-tecnico-em-ia.git`
