@@ -1,6 +1,11 @@
 Prova Parcial 03 - Ferramentas de Programação
 Em: 26.03.2026
 Nome do aluno (insira apenas o nome inicial)
+<<<<<<< HEAD:dupla_anna_rogerio/chamada/frequencia-da-prova.txt
+01. Anna_Rogerio
+02.
+03.
+=======
 
 01.Alan Lucas
 02.Maria Elionara
@@ -8,3 +13,4 @@ Nome do aluno (insira apenas o nome inicial)
 04.Rafaela
 05.Isabele
 06.Francinelson
+>>>>>>> 2dc2f202ef83838919abad9a8a928c020a42947b:chamada/frequencia-da-prova.txt
