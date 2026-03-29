@@ -11,29 +11,25 @@ III. Pode ser local (no computador) ou remoto (em plataformas como GitHub).
 a) Apenas I está correta  
 b) Apenas I e II estão corretas  
 c) Apenas I e III estão corretas  
-d) I, II e III estão corretas
+d) I, II e III estão corretas  
 
-## **Resposta:**
+**Resposta:**
+ c
 
 ### 7. O que são dependências em um projeto?
 
 a) Arquivos desnecessários que podem ser removidos  
 b) Programas do sistema operacional  
 c) Bibliotecas que o projeto precisa para funcionar  
-d) Apenas arquivos de imagem
+d) Apenas arquivos de imagem  
 
 **Resposta:**
+c
 
-# 1. b
-
-# 2. a
-
-# 3. b
-
-# 4. d
-
-# 5. a
-
-# 6. c
-
-# 7. b
+### 1. b
+### 2. d
+### 3. c
+### 4. d 
+### 5. a
+### 6. c
+### 7. c
